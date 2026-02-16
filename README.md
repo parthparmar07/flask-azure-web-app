@@ -35,3 +35,5 @@ This app is configured for automatic deployment to Azure App Service via GitHub 
 - `/` - Home page
 - `/health` - Health check
 - `/api/data` - Sample API endpoint
+
+<!-- Deployment triggered -->
